@@ -12,7 +12,7 @@ This repository contains the EFI configuration for the Clevo N850 (N8xEJEK) lapt
 - **Wi-Fi:** Intel Wireless-AC 9462
 - **macOS Version:** Sonoma 14.7.4
 
-## ✅ Functionality
+## ✅ Functionality/What's Working
 
 - [x] Intel UHD Graphics with full acceleration
 - [x] Audio via AppleALC (Layout ID: 3)
@@ -22,6 +22,9 @@ This repository contains the EFI configuration for the Clevo N850 (N8xEJEK) lapt
 - [x] Sleep and wake functionality
 - [x] USB ports mapped correctly
 - [x] Native NVRAM support
+- [x] Bluetooth
+- [x] AirDrop( Not Tested Yet)
+- [x] Many more features not tested yet!
 
 ## ⚠️ Known Issues
 
@@ -46,6 +49,9 @@ This repository contains the EFI configuration for the Clevo N850 (N8xEJEK) lapt
 
 ## ✅ EFI COMPATIBILITY
 This EFI Is only & currently compatible with Sonoma 14.7.4
+
+## ⚠️ FIXES
+To configure RGB keyboard light use https://www.mediafire.com/file/qp7aamd63shlgnv/Devastator+Led+Tool.dmg/file
 
 ## 🙏 Acknowledgments
 
