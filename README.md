@@ -44,6 +44,9 @@ This repository contains the EFI configuration for the Clevo N850 (N8xEJEK) lapt
 ![About This Mac](coming soon)
 ![System Information](coming soon)
 
+## ✅ EFI COMPATIBILITY
+This EFI Is only & currently compatible with Sonoma 14.7.4
+
 ## 🙏 Acknowledgments
 
 - [Dortania OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
