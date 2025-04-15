@@ -53,6 +53,10 @@ This EFI Is only & currently compatible with Sonoma 14.7.4
 ## ⚠️ FIXES
 To configure RGB keyboard light use https://www.mediafire.com/file/qp7aamd63shlgnv/Devastator+Led+Tool.dmg/file
 
+## ⚠️ IMPORTANT
+If you dualbooted Sonoma and you preinstalled the EFI before on the partitioned drive, you'll need to delete and place the EFI again after installing Sonoma, if not the brightness fix would be missing.
+
+
 ## 🙏 Acknowledgments
 
 - [Dortania OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
