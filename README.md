@@ -65,4 +65,4 @@ To configure RGB keyboard light use https://www.mediafire.com/file/qp7aamd63shlg
 
 > **Disclaimer:** Use this EFI at your own risk. Ensure you have backups and understand the Hackintosh process.
 > The EFI Works perfectly on this version of Sonoma 14.7.4
-> Next is MacOs Sequioa. STAY TUNED.
+> Next is MacOs Sequioa. STAY TUNED. KEEP PATIENT!!
